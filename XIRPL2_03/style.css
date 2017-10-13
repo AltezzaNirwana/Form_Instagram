@@ -1,0 +1,181 @@
+body{
+
+	margin: 0;
+	padding: 0;
+}
+h1{
+	font-family: billabong;
+	font-size: 50px;
+	margin: 10%;
+	margin-top: 50px;
+	text-align: center;
+
+}
+#login{
+	max-width: 340px;
+	margin: 100px auto;
+	margin-top: 2%;
+	background: #f9f9f9;
+	box-shadow: 0 0 10px #aaa;
+}
+#login h3{
+	text-align: center;
+	padding: 25px 10px;
+	background-color: #f9f9f9;
+	color: #4169e1;
+}
+fieldset{
+	margin: 0;
+	border: none;
+}
+form{
+	padding: 0;
+	margin: 0;
+	padding: 15px;
+}
+input[type='text'],
+input[type="email"]{
+	width: 100%;
+	padding: 1em;
+	margin-top: 1.5em;
+	color: ;
+
+}
+p{
+	text-align: center;
+	font-size: 25px;
+
+}
+input[type='password']{
+	width: 100%;
+	margin-top: 1.25em;
+	padding: 1em;
+	margin
+}
+
+input[type="submit"]{
+	width: 100%;
+	padding: 1.4em;
+	margin: 1.5em 0;
+	color: #888;
+	background-color: #4169e1 ;
+	border:none;
+	color: #eee;
+	border-bottom: 4px solid transparent;
+}
+input[type="submit"]:hover{
+	opacity: 0.8;
+	border-color: #4169e1;
+}
+form p{
+	text-align: center;
+	color: #888;
+	width: 30px;
+	margin-top: 10px auto 0;
+	background: #4169e1;
+	position: relative;
+	bottom: 20px;
+}
+.border-p{
+	border-top: 1px solid #888;
+	margin: 10px 10px;
+}
+button{
+	background-color: #4169e1;
+	width: 95%;
+	height: 5%;
+	padding: 1.6em;
+	color: #888;
+	border:none;
+	color: #eee;
+	margin-left: 10px;
+	margin-bottom: -10px;
+	border-bottom: 3px solid transparent;
+}
+button:hover{
+	opacity: 0.5;
+	border-color: #A9A9A9;
+	margin: center;
+}
+
+element.style{
+}
+@media (min-width: 736px)
+<style>..</style>
+._ddcu7 {
+	top: 2px;
+}
+a{
+	text-decoration: none;
+	color: black;
+	font-family: arial;
+	font-size: 13px;
+	margin: center;
+	margin-bottom: 4px
+
+}
+<style>...</style>
+._ddcu7 {
+	display: inline-block;
+	margin-right: 90px;
+	position: relative;
+	top: 3px;
+}
+<style>...</style>
+.coreSpriteFacebookIconInverted, .coreSpriteFbGlyph, .coreSpriteFeedCreation{
+	background-position: -312px -115px;
+}
+a{
+		color:blue;
+}
+button a{
+	color: white;
+}
+
+
+
+.hasil .email{
+	width: 300px;
+	margin: 10px;
+	padding: 10px;
+	background-color: white;
+	font-family: arial;
+	color: black;
+	font-weight: bold;
+}
+
+.hasil .fullname{
+	width: 300px;
+	margin: 10px;
+	padding: 10px;
+	background-color: white;
+	font-family: arial;
+	color: black;
+	font-weight: bold;
+	
+}
+.hasil .user{
+	width: 300px;
+	margin: 10px;
+	padding: 10px;
+	background-color: white;
+	font-family: arial;
+	color: black;
+	font-weight: bold;
+}
+.hasil .password{
+	width: 300px;
+	margin: 10px;
+	padding: 10px;
+	background-color: white;
+	font-family: arial;
+	color: black;
+	font-weight: bold;
+}
+.Header {
+	font-family: billabong;
+	font-size: 60px;
+	font-weight: bold;
+	text-align: center;
+	padding: 50px;
+}
